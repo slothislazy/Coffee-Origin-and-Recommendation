@@ -4,4 +4,7 @@
 #Web Scrapping
 coffee_reviews_text/
 
+artifacts/
+.claude/
+
 tmp_pdf_text/
