@@ -121,20 +121,6 @@ Each experiment writes its outputs to `artifacts/<experiment_name>/`, including 
 | LLM zero-shot baseline | Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` |
 | Retrieval (primary) | BGE-base-en-v1.5, E5-base-v2 | `BAAI/bge-base-en-v1.5`, `intfloat/e5-base-v2` |
 
----
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@mastersthesis{djafar2026coffee,
-  author = {Kevin Vagan Djafar},
-  title  = {Leveraging Natural Language Processing Techniques for Coffee Origin Classification and Content-Based Recommendation from Coffee Reviews},
-  school = {Bina Nusantara University},
-  year   = {2026}
-}
-```
 
 ---
 
